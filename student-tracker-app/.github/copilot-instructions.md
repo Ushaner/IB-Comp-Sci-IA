@@ -1,0 +1,2 @@
+- [x] Project scaffolded using React Native CLI in student-tracker-app subfolder.
+- [ ] Next: Customize the project for student tracking features and Java native module integration.
